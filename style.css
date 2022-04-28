@@ -1,0 +1,30 @@
+h1{
+  text-align: center;
+  font-size: 7vw;
+  margin-top: 0;
+  background-color: rgb(255, 122, 66);
+  border-radius: 10px;
+}
+
+div{
+  background-color: rgb(255, 159, 71);
+  margin-right: 21vw;
+  margin-left: 21vw;
+  margin-top: 2vw;
+}
+
+h2{
+    margin-left: 22vw;
+    margin-right: 22vw;
+    font-size: 40px;
+}
+
+ img{
+   margin-left: 18vw;
+   margin-right: 18vw;
+   margin-bottom: 1vw;
+ }
+
+body{
+  background-image: url("img/background.jpg")
+}
